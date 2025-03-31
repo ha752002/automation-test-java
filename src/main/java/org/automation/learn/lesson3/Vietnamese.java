@@ -1,4 +1,4 @@
-package org.automation.learn.lession3;
+package org.automation.learn.lesson3;
 
 public class Vietnamese {
     public static String baseLanguage = "Vietnamese";

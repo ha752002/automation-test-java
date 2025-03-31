@@ -1,4 +1,4 @@
-package org.automation.learn.lession3;
+package org.automation.learn.lesson3;
 
 public class Static {
     public static void main(String[] args) {
